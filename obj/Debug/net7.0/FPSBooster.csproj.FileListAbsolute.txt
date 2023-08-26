@@ -1,0 +1,15 @@
+C:\Users\dleuiajs\git\FPSBooster\bin\Debug\net7.0\FPSBooster.exe
+C:\Users\dleuiajs\git\FPSBooster\bin\Debug\net7.0\FPSBooster.deps.json
+C:\Users\dleuiajs\git\FPSBooster\bin\Debug\net7.0\FPSBooster.runtimeconfig.json
+C:\Users\dleuiajs\git\FPSBooster\bin\Debug\net7.0\FPSBooster.dll
+C:\Users\dleuiajs\git\FPSBooster\bin\Debug\net7.0\FPSBooster.pdb
+C:\Users\dleuiajs\git\FPSBooster\obj\Debug\net7.0\FPSBooster.csproj.AssemblyReference.cache
+C:\Users\dleuiajs\git\FPSBooster\obj\Debug\net7.0\FPSBooster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dleuiajs\git\FPSBooster\obj\Debug\net7.0\FPSBooster.AssemblyInfoInputs.cache
+C:\Users\dleuiajs\git\FPSBooster\obj\Debug\net7.0\FPSBooster.AssemblyInfo.cs
+C:\Users\dleuiajs\git\FPSBooster\obj\Debug\net7.0\FPSBooster.csproj.CoreCompileInputs.cache
+C:\Users\dleuiajs\git\FPSBooster\obj\Debug\net7.0\FPSBooster.dll
+C:\Users\dleuiajs\git\FPSBooster\obj\Debug\net7.0\refint\FPSBooster.dll
+C:\Users\dleuiajs\git\FPSBooster\obj\Debug\net7.0\FPSBooster.pdb
+C:\Users\dleuiajs\git\FPSBooster\obj\Debug\net7.0\FPSBooster.genruntimeconfig.cache
+C:\Users\dleuiajs\git\FPSBooster\obj\Debug\net7.0\ref\FPSBooster.dll
