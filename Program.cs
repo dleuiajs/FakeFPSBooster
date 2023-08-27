@@ -27,6 +27,9 @@ namespace FPSBooster
 
             int fTDivision = 1;
             double frametime;
+
+            Console.WriteLine("Enter the name of the video card");
+            string? gpuName = Console.ReadLine();
             Console.Clear();
             while (true)
             {
@@ -44,7 +47,7 @@ namespace FPSBooster
                 Console.SetCursorPosition(0, 0);
                 Console.Write("[Current FPS]       ");
                 Console.SetCursorPosition(0, 1);
-                Console.Write("GPU: Gigabyte GeForce RTX 3050 2 GB GDDR3");
+                Console.Write("GPU: " + gpuName); // Gigabyte GeForce RTX 3050 2 GB GDDR3
                 Console.SetCursorPosition(0, 2);
                 Console.Write("Performance: " + fps + " FPS ");
                 Console.SetCursorPosition(0, 3);
